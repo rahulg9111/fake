@@ -62,5 +62,67 @@
         "isPublished" : true
       }
     ]
-  }
+  },
+  "design-competition/list": [
+      {
+        "id" : "1234565432",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      },
+      {
+        "id" : "124565432",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      },
+      {
+        "id" : "12345654",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      },
+      {
+        "id" : "14565432",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      },
+      {
+        "id" : "12365432",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      },
+      {
+        "id" : "13456542",
+        "title" : "Sample Title",
+        "pincode" : "110032",
+        "projectCategory" : "projectCategory",
+        "projectSubcategory" : "projectSubcategory",
+        "prize" : "12,100",
+        "projectArea" : "100",
+        "isPublished" : true
+      }
+  ]
 }
