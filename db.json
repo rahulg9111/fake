@@ -1,6 +1,6 @@
 {
   "design-competition": {
-    "list" : [
+    "data" : [
       {
         "id" : "1234565432",
         "title" : "Sample Title",
@@ -63,66 +63,62 @@
       }
     ]
   },
-  "design-competition/list": [
+  "users" : {
+    "data" : [
       {
-        "id" : "1234565432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
+        "id" : "23erf3rtfvb",
+        "orderType" : "sometype",
+        "serviceType" : "typpeee",
+        "baseAmount" : "12,000",
+        "taxPercentage" : 18,
+        "discountPercentage" : 50,
+        "created_at" : "2020-01-30 10:32:51.738+00"
       },
       {
-        "id" : "124565432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
+        "id" : "23e3rtfvb",
+        "orderType" : "somtype",
+        "serviceType" : "typpee",
+        "baseAmount" : "1200",
+        "taxPercentage" : 18,
+        "discountPercentage" : 50,
+        "created_at" : "2020-02-30 10:32:51.738+00"
       },
       {
-        "id" : "12345654",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
+        "id" : "23erf3rtb",
+        "orderType" : "smetype",
+        "serviceType" : "typpeee",
+        "baseAmount" : "200",
+        "taxPercentage" : 18,
+        "discountPercentage" : 50,
+        "created_at" : "2020-01-21 10:32:51.738+00"
       },
       {
-        "id" : "14565432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
+        "id" : "3rtfvb",
+        "orderType" : "sometype",
+        "serviceType" : "typpeee",
+        "baseAmount" : "12,000",
+        "taxPercentage" : 8,
+        "discountPercentage" : 50,
+        "created_at" : "2019-01-30 10:32:51.738+00"
       },
       {
-        "id" : "12365432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
+        "id" : "23erf",
+        "orderType" : "sometype",
+        "serviceType" : "typpeee",
+        "baseAmount" : "12,000",
+        "taxPercentage" : 18,
+        "discountPercentage" : 50,
+        "created_at" : "2020-01-01 10:32:51.738+00"
       },
       {
-        "id" : "13456542",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true
-      }
-  ]
+        "id" : "233rtfvb",
+        "orderType" : "sometype",
+        "serviceType" : "tppeee",
+        "baseAmount" : "11,000",
+        "taxPercentage" : 18,
+        "discountPercentage" : 50,
+        "created_at" : "2018-01-30 10:32:51.738+00"
+      },
+    ] 
+  }
 }
