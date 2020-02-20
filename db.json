@@ -1,164 +1,265 @@
 {
   "design-competition": {
-    "data" : [
+    "data": [
       {
-        "id" : "1234565432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "2020-01-30 10:32:51.738+00"
+        "id": "1234565432",
+        "title": "Sample Title",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2020-01-30 10:32:51.738+00"
       },
       {
-        "id" : "124565432",
-        "title" : "Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "2020-01-10 10:32:51.738+00"
+        "id": "124565432",
+        "title": "Title",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2020-01-10 10:32:51.738+00"
       },
       {
-        "id" : "12345654",
-        "title" : "Sample",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "200-01-30 10:32:51.738+00"
+        "id": "12345654",
+        "title": "Sample",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "200-01-30 10:32:51.738+00"
       },
       {
-        "id" : "14565432",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "2020-01-12 10:32:51.738+00"
+        "id": "14565432",
+        "title": "Sample Title",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2020-01-12 10:32:51.738+00"
       },
       {
-        "id" : "12365432",
-        "title" : "XYGBC",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "2019-01-30 10:32:51.738+00"
+        "id": "12365432",
+        "title": "XYGBC",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2019-01-30 10:32:51.738+00"
       },
       {
-        "id" : "13456542",
-        "title" : "Sample Title",
-        "pincode" : "110032",
-        "projectCategory" : "projectCategory",
-        "projectSubcategory" : "projectSubcategory",
-        "prize" : "12,100",
-        "projectArea" : "100",
-        "isPublished" : true,
-        "createdAt" : "2011-01-30 10:32:51.738+00"
+        "id": "13456542",
+        "title": "Sample Title",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2011-01-30 10:32:51.738+00"
       }
     ]
   },
-  "pricing" : {
-    "data" : [
+  "pricing": {
+    "data": [
       {
-        "id" : "23erf3rtfvb",
-        "orderType" : "sometype",
-        "serviceType" : "typpeee",
-        "baseAmount" : "12,000",
-        "taxPercentage" : 18,
-        "discountPercentage" : 50,
-        "createdAt" : "2020-01-30 10:32:51.738+00"
+        "id": "23erf3rtfvb",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-30 10:32:51.738+00"
       },
       {
-        "id" : "23e3rtfvb",
-        "orderType" : "somtype",
-        "serviceType" : "typpee",
-        "baseAmount" : "1200",
-        "taxPercentage" : 18,
-        "discountPercentage" : 50,
-        "createdAt" : "2020-02-30 10:32:51.738+00"
+        "id": "23e3rtfvb",
+        "orderType": "somtype",
+        "serviceType": "typpee",
+        "baseAmount": "1200",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-02-30 10:32:51.738+00"
       },
       {
-        "id" : "23erf3rtb",
-        "orderType" : "smetype",
-        "serviceType" : "typpeee",
-        "baseAmount" : "200",
-        "taxPercentage" : 18,
-        "discountPercentage" : 50,
-        "createdAt" : "2020-01-21 10:32:51.738+00"
+        "id": "23erf3rtb",
+        "orderType": "smetype",
+        "serviceType": "typpeee",
+        "baseAmount": "200",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-21 10:32:51.738+00"
       },
       {
-        "id" : "3rtfvb",
-        "orderType" : "sometype",
-        "serviceType" : "typpeee",
-        "baseAmount" : "12,000",
-        "taxPercentage" : 8,
-        "discountPercentage" : 50,
-        "createdAt" : "2019-01-30 10:32:51.738+00"
+        "id": "3rtfvb",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 8,
+        "discountPercentage": 50,
+        "createdAt": "2019-01-30 10:32:51.738+00"
       },
       {
-        "id" : "23erf",
-        "orderType" : "sometype",
-        "serviceType" : "typpeee",
-        "baseAmount" : "12,000",
-        "taxPercentage" : 18,
-        "discountPercentage" : 50,
-        "createdAt" : "2020-01-01 10:32:51.738+00"
+        "id": "23erf",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-01 10:32:51.738+00"
       },
       {
-        "id" : "233rtfvb",
-        "orderType" : "sometype",
-        "serviceType" : "tppeee",
-        "baseAmount" : "11,000",
-        "taxPercentage" : 18,
-        "discountPercentage" : 50,
-        "createdAt" : "2018-01-30 10:32:51.738+00"
+        "id": "233rtfvb",
+        "orderType": "sometype",
+        "serviceType": "tppeee",
+        "baseAmount": "11,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2018-01-30 10:32:51.738+00"
       }
-    ] 
+    ]
   },
-  "report" : [
+  "report": [
     {
-      "id" : "1234edfgtre4",
-      "createdAt" : "2018-01-30 10:32:51.738+00",
-      "reportType" : "Vulgar",
-      "creationType" : "project",
-      "information" : "Reported lorem ipsum and lorem ipsum",
-      "isBlocked" : true
+      "id": "1234edfgtre4",
+      "createdAt": "2018-01-30 10:32:51.738+00",
+      "reportType": "Vulgar",
+      "creationType": "project",
+      "information": "Reported lorem ipsum and lorem ipsum",
+      "isBlocked": true
     },
     {
-      "id" : "14edfgtre4",
-      "createdAt" : "2018-01-30 10:32:51.738+00",
-      "reportType" : "Spam",
-      "creationType" : "Product",
-      "information" : "Reprted lorem ipsum ad lorem ipsum",
-      "isBlocked" : false
+      "id": "14edfgtre4",
+      "createdAt": "2018-01-30 10:32:51.738+00",
+      "reportType": "Spam",
+      "creationType": "Product",
+      "information": "Reprted lorem ipsum ad lorem ipsum",
+      "isBlocked": false
     },
     {
-      "id" : "134edftre",
-      "createdAt" : "2018-01-30 10:32:51.738+00",
-      "reportType" : "Intimation",
-      "creationType" : "Event",
-      "information" : "Repoted lorem ipsuand loremipsum",
-      "isBlocked" : false
+      "id": "134edftre",
+      "createdAt": "2018-01-30 10:32:51.738+00",
+      "reportType": "Intimation",
+      "creationType": "Event",
+      "information": "Repoted lorem ipsuand loremipsum",
+      "isBlocked": false
     },
     {
-      "id" : "1234efgtr4",
-      "createdAt" : "2018-01-30 10:32:51.738+00",
-      "reportType" : "Vulgar",
-      "creationType" : "Artistry",
-      "information" : "Reportd lorem ipsum d lorem ipsum",
-      "isBlocked" : true
+      "id": "1234efgtr4",
+      "createdAt": "2018-01-30 10:32:51.738+00",
+      "reportType": "Vulgar",
+      "creationType": "Artistry",
+      "information": "Reportd lorem ipsum d lorem ipsum",
+      "isBlocked": true
     }
-  ]
+  ],
+  "c-design-competition": {
+    "data": {
+      "id": "d59b5793-831d-4517-918b-fe6fd3006b4b",
+      "createdAt": "2020-01-31T10:50:55.186Z",
+      "updatedAt": "2020-01-31T10:50:55.186Z",
+      "deletedAt": null,
+      "userId": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
+      "title": "Design Competition",
+      "pincode": 110032,
+      "projectCategory": "religious_buildings",
+      "projectSubcategory": "mosque",
+      "projectDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "prize": 2100,
+      "projectArea": 1000,
+      "email": "example@example.com",
+      "website": "https://example.com",
+      "projectPlanUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_project-plan_55d61257-29e3-4d01-86f7-1e340d05e4eb",
+      "tncDocumentUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_tnc_1d7725f2-7593-46fb-b4e2-30205612be8b",
+      "requiredJuryCount": 10,
+      "isPublished": false,
+      "imageCluster": [
+        {
+          "key": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_design-competition-image_555ce523-9cea-4734-87af-f915a8933741",
+          "place": "Manhattan",
+          "copyright": "Copyright",
+          "description": "Description",
+          "photographer": "Photographer"
+        }
+      ],
+      "user": {
+        "id": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
+        "sessionId": "9928f667-49b0-4956-b862-8f18a683077e",
+        "createdAt": "2020-01-30T09:32:09.187Z",
+        "updatedAt": "2020-02-01T07:58:27.149Z",
+        "deletedAt": null,
+        "organization": 1,
+        "phoneNumber": "+919582836414",
+        "type": "legend",
+        "isBlocked": false,
+        "registrationState": 0,
+        "projectsCount": 0,
+        "eventsCount": 0,
+        "productsCount": 0,
+        "projectsPurchased": 2,
+        "eventsPurchased": 2,
+        "productsPurchased": 2,
+        "profileImageUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_profile_cb4d8869-5408-4377-a329-383d52d422ef",
+        "individualDetail": {
+          "userId": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
+          "name": "Rahul goyal",
+          "email": "rahulgoyal9111@gmail.com",
+          "isDesignAssociate": false,
+          "dateOfBirth": "1994-04-12",
+          "gender": "male",
+          "professionType": "designa",
+          "houseNumber": "1/11464A Gali no-4 subhash park extn.",
+          "street": "1/11464A Gali no-4 subhash park extn.",
+          "locality": "Delhi",
+          "city": "Delhi",
+          "state": "delhi",
+          "pincode": 110032,
+          "linkedin": null,
+          "facebook": null,
+          "twitter": null,
+          "instagram": "",
+          "youtube": null,
+          "logoUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_logo_66137e57-bbf5-4b51-bc8d-8fc24d2d3790",
+          "createdAt": "2020-01-31T10:12:13.430Z",
+          "updatedAt": "2020-02-01T07:58:37.191Z",
+          "deletedAt": null
+        },
+        "corporateDetail": {
+          "userId": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
+          "companyName": "Pinotes",
+          "representativeName": "Rahul Goyal",
+          "email": "pinotes.in@gmail.com",
+          "officeName": "Company Address",
+          "street": "street-4",
+          "locality": "shahdara",
+          "city": "Delhi",
+          "state": "delhi",
+          "pincode": 110032,
+          "companyBrief": "Brief About Company",
+          "gstNumber": "GST",
+          "panNumber": "PAN",
+          "website": "https://pinotes.co.in",
+          "linkedin": "null",
+          "facebook": "null",
+          "instagram": "",
+          "twitter": "null",
+          "youtube": "null",
+          "documentUrls": [
+            "ad78ad77-a75a-4c74-af25-1cdb7111cb48_corporate-document_e1327a59-92fd-4d97-9505-93d88019d5b7"
+          ],
+          "createdAt": "2020-01-30T11:06:04.911Z",
+          "updatedAt": "2020-01-30T11:07:03.612Z",
+          "deletedAt": null
+        }
+      }
+    }
+  }
 }
