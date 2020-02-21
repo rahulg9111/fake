@@ -9,7 +9,7 @@
         "projectSubcategory": "projectSubcategory",
         "prize": "12,100",
         "projectArea": "100",
-        "isPublished": false,
+        "isPublished": true,
         "createdAt": "2020-01-30 10:32:51.738+00"
       },
       {
@@ -44,6 +44,86 @@
         "projectArea": "100",
         "isPublished": true,
         "createdAt": "2020-01-12 10:32:51.738+00"
+      },
+      {
+        "id": "12365432",
+        "title": "XYGBC",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2019-01-30 10:32:51.738+00"
+      },
+      {
+        "id": "13456542",
+        "title": "Sample Title",
+        "pincode": "110032",
+        "projectCategory": "projectCategory",
+        "projectSubcategory": "projectSubcategory",
+        "prize": "12,100",
+        "projectArea": "100",
+        "isPublished": true,
+        "createdAt": "2011-01-30 10:32:51.738+00"
+      }
+    ]
+  },
+  "pricing": {
+    "data": [
+      {
+        "id": "23erf3rtfvb",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-30 10:32:51.738+00"
+      },
+      {
+        "id": "23e3rtfvb",
+        "orderType": "somtype",
+        "serviceType": "typpee",
+        "baseAmount": "1200",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-02-30 10:32:51.738+00"
+      },
+      {
+        "id": "23erf3rtb",
+        "orderType": "smetype",
+        "serviceType": "typpeee",
+        "baseAmount": "200",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-21 10:32:51.738+00"
+      },
+      {
+        "id": "3rtfvb",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 8,
+        "discountPercentage": 50,
+        "createdAt": "2019-01-30 10:32:51.738+00"
+      },
+      {
+        "id": "23erf",
+        "orderType": "sometype",
+        "serviceType": "typpeee",
+        "baseAmount": "12,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2020-01-01 10:32:51.738+00"
+      },
+      {
+        "id": "233rtfvb",
+        "orderType": "sometype",
+        "serviceType": "tppeee",
+        "baseAmount": "11,000",
+        "taxPercentage": 18,
+        "discountPercentage": 50,
+        "createdAt": "2018-01-30 10:32:51.738+00"
       }
     ]
   },
@@ -100,7 +180,7 @@
       "projectPlanUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_project-plan_55d61257-29e3-4d01-86f7-1e340d05e4eb",
       "tncDocumentUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_tnc_1d7725f2-7593-46fb-b4e2-30205612be8b",
       "requiredJuryCount": 10,
-      "isPublished": true,
+      "isPublished": false,
       "imageCluster": [
         {
           "key": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_design-competition-image_555ce523-9cea-4734-87af-f915a8933741",
@@ -152,104 +232,32 @@
           "updatedAt": "2020-02-01T07:58:37.191Z",
           "deletedAt": null
         },
-        "corporateDetail": null
-      }
-    }
-  },
-  "c-report": {
-    "data": {
-      "id" : "1234",
-      "createdAt" : "200-01-30 10:32:51.738+00",
-      "userId" : "2d3166b9-488b-4c03-bb45-fd097497a8b4",
-      "creationId" : "2345678uyh",
-      "reportId" : "12345rtfg",
-      "reportType" : "Vulgar",
-      "creationType" : "Project",
-      "information" : "Reportd lorem ipsum d lorem ipsum",
-      "isBlocked" : null,
-      "reportedBy" : {
-        "id" : "fesgrfdhrgsfd",
-        "name" : "Rahul goyal"
-      },
-      "creation": {
-        "id": "beb9e1ac-e717-4c4a-8761-fa2fa4fa7810",
-        "createdAt": "2020-02-16T15:03:12.923Z",
-        "updatedAt": "2020-02-16T15:03:12.923Z",
-        "deletedAt": null,
-        "userId": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
-        "category": "retrofitting_and_renovation",
-        "subcategory": null,
-        "title": "Vimal house ",
-        "description": "VimalVimalVimalVimalVimalVimalVimalVimalVimalVimalVimal Vimal",
-        "designerName": "Vimal Verma",
-        "designerProfession": null,
-        "structureEngineerName": "YS",
-        "mepConsultantName": "Verma MAP",
-        "landscapeConsultantName": "RAKESH SA",
-        "otherConsultants": "YUdhveer",
-        "projectArea": 12584,
-        "cost": 1251250000,
-        "introYear": 1965,
-        "materials": [
-          "brick"
-        ],
-        "facadeTone": "red",
-        "address": "Noida ",
-        "city": "Noida",
-        "state": "uttar_pradesh",
-        "pincode": 201304,
-        "imageCluster": [
-          {
-            "key": "2d3166b9-488b-4c03-bb45-fd097497a8b4_project-image_ca80d392-b974-41fb-8af5-2d995f86b30b",
-            "place": "verma ",
-            "copyright": "verma ",
-            "description": "Verma Verma VVVVVVVVV",
-            "photographer": "verma "
-          }
-        ],
-        "user": {
-          "id": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
-          "sessionId": "082868a8-bdfa-4362-9d80-8d51654e1554",
-          "createdAt": "2020-02-16T14:33:02.553Z",
-          "updatedAt": "2020-02-16T15:03:13.296Z",
-          "deletedAt": null,
-          "organization": 1,
-          "phoneNumber": "+919311003132",
-          "type": "professional",
-          "isBlocked": false,
-          "registrationState": 0,
-          "projectsCount": 1,
-          "eventsCount": 0,
-          "productsCount": 0,
-          "projectsPurchased": 2,
-          "eventsPurchased": 2,
-          "productsPurchased": 2,
-          "profileImageUrl": "2d3166b9-488b-4c03-bb45-fd097497a8b4_profile_9cfab061-faf5-4833-9b18-48afb7f4f1c6",
-          "individualDetail": {
-            "userId": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
-            "name": "Vimal Verma ",
-            "email": "vimal.vermacd@gmail.com",
-            "isDesignAssociate": true,
-            "dateOfBirth": "1980-02-03",
-            "gender": "male",
-            "professionType": "designi",
-            "houseNumber": "ABCD NOIDA",
-            "street": "dr",
-            "locality": "noida",
-            "city": "Noida ",
-            "state": "uttar_pradesh",
-            "pincode": 201304,
-            "linkedin": null,
-            "facebook": "",
-            "twitter": null,
-            "instagram": null,
-            "youtube": null,
-            "logoUrl": null,
-            "createdAt": "2020-02-16T14:53:49.969Z",
-            "updatedAt": "2020-02-16T14:53:49.969Z",
-            "deletedAt": null
-          },
-          "corporateDetail": null
+        "corporateDetail": {
+          "userId": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
+          "companyName": "Pinotes",
+          "representativeName": "Rahul Goyal",
+          "email": "pinotes.in@gmail.com",
+          "officeName": "Company Address",
+          "street": "street-4",
+          "locality": "shahdara",
+          "city": "Delhi",
+          "state": "delhi",
+          "pincode": 110032,
+          "companyBrief": "Brief About Company",
+          "gstNumber": "GST",
+          "panNumber": "PAN",
+          "website": "https://pinotes.co.in",
+          "linkedin": "null",
+          "facebook": "null",
+          "instagram": "",
+          "twitter": "null",
+          "youtube": "null",
+          "documentUrls": [
+            "ad78ad77-a75a-4c74-af25-1cdb7111cb48_corporate-document_e1327a59-92fd-4d97-9505-93d88019d5b7"
+          ],
+          "createdAt": "2020-01-30T11:06:04.911Z",
+          "updatedAt": "2020-01-30T11:07:03.612Z",
+          "deletedAt": null
         }
       }
     }
