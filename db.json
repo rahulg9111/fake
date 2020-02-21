@@ -261,5 +261,103 @@
         }
       }
     }
+  },
+  "c-report": {
+    "data": {
+      "id" : "1234",
+      "createdAt" : "200-01-30 10:32:51.738+00",
+      "userId" : "2d3166b9-488b-4c03-bb45-fd097497a8b4",
+      "creationId" : "2345678uyh",
+      "reportId" : "12345rtfg",
+      "reportType" : "Vulgar",
+      "creationType" : "Project",
+      "information" : "Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum",
+      "isBlocked" : false,
+      "reportedBy" : {
+        "id" : "fesgrfdhrgsfd",
+        "name" : "Rahul goyal"
+      },
+      "creation": {
+        "id": "beb9e1ac-e717-4c4a-8761-fa2fa4fa7810",
+        "createdAt": "2020-02-16T15:03:12.923Z",
+        "updatedAt": "2020-02-16T15:03:12.923Z",
+        "deletedAt": null,
+        "userId": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
+        "category": "retrofitting_and_renovation",
+        "subcategory": null,
+        "title": "Vimal house ",
+        "description": "VimalVimalVimalVimalVimalVimalVimalVimalVimalVimalVimal Vimal",
+        "designerName": "Vimal Verma",
+        "designerProfession": null,
+        "structureEngineerName": "YS",
+        "mepConsultantName": "Verma MAP",
+        "landscapeConsultantName": "RAKESH SA",
+        "otherConsultants": "YUdhveer",
+        "projectArea": 12584,
+        "cost": 1251250000,
+        "introYear": 1965,
+        "materials": [
+          "brick"
+        ],
+        "facadeTone": "red",
+        "address": "Noida ",
+        "city": "Noida",
+        "state": "uttar_pradesh",
+        "pincode": 201304,
+        "imageCluster": [
+          {
+            "key": "2d3166b9-488b-4c03-bb45-fd097497a8b4_project-image_ca80d392-b974-41fb-8af5-2d995f86b30b",
+            "place": "verma ",
+            "copyright": "verma ",
+            "description": "Verma Verma VVVVVVVVV",
+            "photographer": "verma "
+          }
+        ],
+        "user": {
+          "id": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
+          "sessionId": "082868a8-bdfa-4362-9d80-8d51654e1554",
+          "createdAt": "2020-02-16T14:33:02.553Z",
+          "updatedAt": "2020-02-16T15:03:13.296Z",
+          "deletedAt": null,
+          "organization": 1,
+          "phoneNumber": "+919311003132",
+          "type": "professional",
+          "isBlocked": false,
+          "registrationState": 0,
+          "projectsCount": 1,
+          "eventsCount": 0,
+          "productsCount": 0,
+          "projectsPurchased": 2,
+          "eventsPurchased": 2,
+          "productsPurchased": 2,
+          "profileImageUrl": "2d3166b9-488b-4c03-bb45-fd097497a8b4_profile_9cfab061-faf5-4833-9b18-48afb7f4f1c6",
+          "individualDetail": {
+            "userId": "2d3166b9-488b-4c03-bb45-fd097497a8b4",
+            "name": "Vimal Verma ",
+            "email": "vimal.vermacd@gmail.com",
+            "isDesignAssociate": true,
+            "dateOfBirth": "1980-02-03",
+            "gender": "male",
+            "professionType": "designi",
+            "houseNumber": "ABCD NOIDA",
+            "street": "dr",
+            "locality": "noida",
+            "city": "Noida ",
+            "state": "uttar_pradesh",
+            "pincode": 201304,
+            "linkedin": null,
+            "facebook": "",
+            "twitter": null,
+            "instagram": null,
+            "youtube": null,
+            "logoUrl": null,
+            "createdAt": "2020-02-16T14:53:49.969Z",
+            "updatedAt": "2020-02-16T14:53:49.969Z",
+            "deletedAt": null
+          },
+          "corporateDetail": null
+        }
+      }
+    }
   }
 }
