@@ -166,7 +166,7 @@
       "reportType" : "Vulgar",
       "creationType" : "Project",
       "information" : "Reportd lorem ipsum d lorem ipsum",
-      "isBlocked" : false,
+      "isBlocked" : null,
       "reportedBy" : {
         "id" : "fesgrfdhrgsfd",
         "name" : "Rahul goyal"
