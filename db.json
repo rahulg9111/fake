@@ -9,7 +9,7 @@
         "projectSubcategory": "projectSubcategory",
         "prize": "12,100",
         "projectArea": "100",
-        "isPublished": true,
+        "isPublished": false,
         "createdAt": "2020-01-30 10:32:51.738+00"
       },
       {
@@ -100,7 +100,7 @@
       "projectPlanUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_project-plan_55d61257-29e3-4d01-86f7-1e340d05e4eb",
       "tncDocumentUrl": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_tnc_1d7725f2-7593-46fb-b4e2-30205612be8b",
       "requiredJuryCount": 10,
-      "isPublished": false,
+      "isPublished": true,
       "imageCluster": [
         {
           "key": "ad78ad77-a75a-4c74-af25-1cdb7111cb48_design-competition-image_555ce523-9cea-4734-87af-f915a8933741",
