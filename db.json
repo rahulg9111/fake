@@ -44,86 +44,6 @@
         "projectArea": "100",
         "isPublished": true,
         "createdAt": "2020-01-12 10:32:51.738+00"
-      },
-      {
-        "id": "12365432",
-        "title": "XYGBC",
-        "pincode": "110032",
-        "projectCategory": "projectCategory",
-        "projectSubcategory": "projectSubcategory",
-        "prize": "12,100",
-        "projectArea": "100",
-        "isPublished": true,
-        "createdAt": "2019-01-30 10:32:51.738+00"
-      },
-      {
-        "id": "13456542",
-        "title": "Sample Title",
-        "pincode": "110032",
-        "projectCategory": "projectCategory",
-        "projectSubcategory": "projectSubcategory",
-        "prize": "12,100",
-        "projectArea": "100",
-        "isPublished": true,
-        "createdAt": "2011-01-30 10:32:51.738+00"
-      }
-    ]
-  },
-  "pricing": {
-    "data": [
-      {
-        "id": "23erf3rtfvb",
-        "orderType": "sometype",
-        "serviceType": "typpeee",
-        "baseAmount": "12,000",
-        "taxPercentage": 18,
-        "discountPercentage": 50,
-        "createdAt": "2020-01-30 10:32:51.738+00"
-      },
-      {
-        "id": "23e3rtfvb",
-        "orderType": "somtype",
-        "serviceType": "typpee",
-        "baseAmount": "1200",
-        "taxPercentage": 18,
-        "discountPercentage": 50,
-        "createdAt": "2020-02-30 10:32:51.738+00"
-      },
-      {
-        "id": "23erf3rtb",
-        "orderType": "smetype",
-        "serviceType": "typpeee",
-        "baseAmount": "200",
-        "taxPercentage": 18,
-        "discountPercentage": 50,
-        "createdAt": "2020-01-21 10:32:51.738+00"
-      },
-      {
-        "id": "3rtfvb",
-        "orderType": "sometype",
-        "serviceType": "typpeee",
-        "baseAmount": "12,000",
-        "taxPercentage": 8,
-        "discountPercentage": 50,
-        "createdAt": "2019-01-30 10:32:51.738+00"
-      },
-      {
-        "id": "23erf",
-        "orderType": "sometype",
-        "serviceType": "typpeee",
-        "baseAmount": "12,000",
-        "taxPercentage": 18,
-        "discountPercentage": 50,
-        "createdAt": "2020-01-01 10:32:51.738+00"
-      },
-      {
-        "id": "233rtfvb",
-        "orderType": "sometype",
-        "serviceType": "tppeee",
-        "baseAmount": "11,000",
-        "taxPercentage": 18,
-        "discountPercentage": 50,
-        "createdAt": "2018-01-30 10:32:51.738+00"
       }
     ]
   },
@@ -232,33 +152,7 @@
           "updatedAt": "2020-02-01T07:58:37.191Z",
           "deletedAt": null
         },
-        "corporateDetail": {
-          "userId": "ad78ad77-a75a-4c74-af25-1cdb7111cb48",
-          "companyName": "Pinotes",
-          "representativeName": "Rahul Goyal",
-          "email": "pinotes.in@gmail.com",
-          "officeName": "Company Address",
-          "street": "street-4",
-          "locality": "shahdara",
-          "city": "Delhi",
-          "state": "delhi",
-          "pincode": 110032,
-          "companyBrief": "Brief About Company",
-          "gstNumber": "GST",
-          "panNumber": "PAN",
-          "website": "https://pinotes.co.in",
-          "linkedin": "null",
-          "facebook": "null",
-          "instagram": "",
-          "twitter": "null",
-          "youtube": "null",
-          "documentUrls": [
-            "ad78ad77-a75a-4c74-af25-1cdb7111cb48_corporate-document_e1327a59-92fd-4d97-9505-93d88019d5b7"
-          ],
-          "createdAt": "2020-01-30T11:06:04.911Z",
-          "updatedAt": "2020-01-30T11:07:03.612Z",
-          "deletedAt": null
-        }
+        "corporateDetail": null
       }
     }
   },
@@ -271,7 +165,7 @@
       "reportId" : "12345rtfg",
       "reportType" : "Vulgar",
       "creationType" : "Project",
-      "information" : "Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum Reportd lorem ipsum d lorem ipsum Lorem Ipsum",
+      "information" : "Reportd lorem ipsum d lorem ipsum",
       "isBlocked" : false,
       "reportedBy" : {
         "id" : "fesgrfdhrgsfd",
