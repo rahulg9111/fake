@@ -1,4 +1,4 @@
- {
+{
     "users" : {
         "data" : [
             {
@@ -36,7 +36,35 @@
         ]
     },
     "flock" : {
-        "data" : []
+        "data" : [
+            {
+                "id" : 4,
+                "flock_name" : "Flock 1",
+                "farmer" : "Deepak",
+                "supervisor" : "Kashish",
+                "birds" : 32,
+                "hatch_date" : "Fri May 15 2020 16:08:13 GMT+0530 (India Standard Time)",
+                "status" : 0
+            },
+            {
+                "id" : 1,
+                "flock_name" : "Flock 1",
+                "farmer" : "Deepak",
+                "supervisor" : "Kashish",
+                "birds" : 21,
+                "hatch_date" : "Fri May 15 2020 16:08:13 GMT+0530 (India Standard Time)",
+                "status" : 2
+            },
+            {
+                "id" : 8,
+                "flock_name" : "Flock 1",
+                "farmer" : "Deepak",
+                "supervisor" : "Kashish",
+                "birds" : 118,
+                "hatch_date" : "Fri May 15 2020 16:08:13 GMT+0530 (India Standard Time)",
+                "status" : 1
+            }
+        ]
     },
     "areas" : {
         "data" : [
