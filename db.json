@@ -1,5 +1,6 @@
 {
     "users" : {
+        "count" : 12,
         "data" : [
             {
                 "id" : 1,
@@ -31,6 +32,54 @@
                 "position" : "Doctor",
                 "area" : "",
                 "contact" : "9123685049",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 5,
+                "name" : "Karan",
+                "position" : "Manager",
+                "area" : "",
+                "contact" : "9898989898",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 6,
+                "name" : "Rohit",
+                "position" : "Officer",
+                "area" : "Jhandewalan + 2 More",
+                "contact" : "9102912932",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 7,
+                "name" : "Mehul",
+                "position" : "Supervisor",
+                "area" : "Jhandewalan",
+                "contact" : "94858685049",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 8,
+                "name" : "Kashish",
+                "position" : "Doctor",
+                "area" : "",
+                "contact" : "9123685049",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 9,
+                "name" : "Karan",
+                "position" : "Manager",
+                "area" : "",
+                "contact" : "9898989898",
+                "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
+            },
+            {
+                "id" : 10,
+                "name" : "Rohit",
+                "position" : "Officer",
+                "area" : "Jhandewalan + 2 More",
+                "contact" : "9102912932",
                 "image_url" : "https://media.geeksforgeeks.org/auth/avatar.png"
             }
         ]
